@@ -16,6 +16,7 @@ Do the following using Axios -
   - Cancel requests
   
 Course author - [Traversy Media](https://www.youtube.com/@TraversyMedia)
+
 Course can be found [here](https://www.youtube.com/watch?v=YK-GurROGIg)
 
 
